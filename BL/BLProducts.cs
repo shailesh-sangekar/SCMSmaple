@@ -1,16 +1,25 @@
 using System;
+using System.Collections.Generic;
 
 namespace CORE_TestAPP
 {
     public class BLProducts : IBLProducts
     {
+        private List<Product> _productsData { get; set; }
+
+        BLProducts(ProductRepository productRep)
+        {
+            _productsData = productRep.Data;
+
+        }
         public Product AddProduct(Product product)
         {
             try
             {
-                product.ID = Guid.NewGuid();
                 // TODO :: Update new data to DB and return that public data to developer to show success mesage.
-                return new Product();
+                product.ID = Guid.NewGuid();
+                _productsData.Add(product);
+                return product;
 
             }
             catch (System.Exception)
@@ -43,7 +52,7 @@ namespace CORE_TestAPP
 
 
         }
-        public string DeleteProudct(Product product, Guid id)
+        public string DeleteProduct(Product product, Guid id)
         {
             try
             {

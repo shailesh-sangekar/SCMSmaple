@@ -6,6 +6,6 @@ namespace CORE_TestAPP
     {
         Product AddProduct(Product product);
         string UpdateProduct(Product product, Guid id);
-        string DeleteProudct(Product product, Guid id);
+        string DeleteProduct(Product product, Guid id);
     }
 }
