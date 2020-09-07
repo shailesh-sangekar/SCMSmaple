@@ -1,0 +1,11 @@
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.exe
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.deps.json
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.runtimeconfig.json
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.runtimeconfig.dev.json
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.dll
+D:\Shail\Personal\CORE_TEST_GIT\bin\Debug\netcoreapp3.1\CORE_TEST_GIT.pdb
+D:\Shail\Personal\CORE_TEST_GIT\obj\Debug\netcoreapp3.1\CORE_TEST_GIT.csprojAssemblyReference.cache
+D:\Shail\Personal\CORE_TEST_GIT\obj\Debug\netcoreapp3.1\CORE_TEST_GIT.AssemblyInfoInputs.cache
+D:\Shail\Personal\CORE_TEST_GIT\obj\Debug\netcoreapp3.1\CORE_TEST_GIT.AssemblyInfo.cs
+D:\Shail\Personal\CORE_TEST_GIT\obj\Debug\netcoreapp3.1\CORE_TEST_GIT.dll
+D:\Shail\Personal\CORE_TEST_GIT\obj\Debug\netcoreapp3.1\CORE_TEST_GIT.pdb

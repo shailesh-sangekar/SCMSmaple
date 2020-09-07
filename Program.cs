@@ -6,7 +6,15 @@ namespace CORE_TEST_GIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Guid _id = Guid.NewGuid();
+            Console.WriteLine("Test Data - " + _id);
+            getProducts();
         }
+
+        static void getProducts()
+        {
+            //BLProducts products = new BLProducts();
+        }
+
     }
 }
