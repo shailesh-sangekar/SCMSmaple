@@ -10,7 +10,8 @@ namespace CORE_TestAPP
         public DateTime EndDate { get; set; }
         public Client MemberClient { get; set; }
         public string Status { get; set; } = "Active";
-        
+        public MembershipType MyProperty { get; set; }
+
 
     }
 }
